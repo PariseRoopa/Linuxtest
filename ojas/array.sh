@@ -1,0 +1,5 @@
+NAME[0]="hello"
+NAME[1]="hi"
+NAME[2]="welcome"
+  echo "first index : ${NAME[0]}"
+  echo "second index : ${NAME[1]}"
